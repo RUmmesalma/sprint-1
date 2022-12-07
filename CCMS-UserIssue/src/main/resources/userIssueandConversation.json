@@ -1,0 +1,20 @@
+{
+    
+     "userId":"101",
+	"issueTitle":"ScreenNotResponding",
+	"issueDescription":"My mobiles screen is not responding,please help me",
+	"category":"Mobile",
+	"LocalDate":"11-10-2022",
+	"time":"11:30",
+	"status":"open",
+	"fileLogs":
+	{
+	"conversationId":"201",
+	"conissueid":"1",
+	"title":"ScreenNotResponding",
+	"description":"Can u please solve the issue ASAP",
+	"userName":"salma",
+	"postingDate":"11-10-2022"
+	}
+	
+}
